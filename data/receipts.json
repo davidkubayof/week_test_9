@@ -1,0 +1,22 @@
+[
+  {
+    "username": "david",
+    "eventName": "birthday",
+    "ticketsBought": 1
+  },
+  {
+    "username": "david",
+    "eventName": "friday",
+    "ticketsBought": 1
+  },
+  {
+    "username": "david",
+    "eventName": "birthday",
+    "ticketsBought": 2
+  },
+  {
+    "username": "dan",
+    "eventName": "friday",
+    "ticketsBought": 2
+  }
+]

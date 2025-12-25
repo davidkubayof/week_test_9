@@ -1,0 +1,12 @@
+[
+    {
+        "eventName":"birthday",
+        "ticketsAvailable":5,
+        "createdBy":"david"
+    },
+    {
+        "eventName":"friday",
+        "ticketsAvailable":10,
+        "createdBy":"dan"
+    }
+]
